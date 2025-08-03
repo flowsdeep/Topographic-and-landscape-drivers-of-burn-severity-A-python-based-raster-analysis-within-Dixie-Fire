@@ -63,5 +63,4 @@ Using linear regression and nonlinear Random Forest models, this project explore
 
 ---
 
-## 📂 File Structure
 
